@@ -22,3 +22,11 @@ python3 -m pip install requests beautifulsoup4 selenium webdriver-manager
 ```
 python3 gork.py
 ``` 
+
+#### HOW SEARCH WORKS:
+```
+  - "Selenium (Chrome)" mode opens a real Chrome browser, logs in as you,
+    and scrapes results — Google cannot tell it apart from a human.
+  - "Requests" mode is fast but Google will CAPTCHA-block it quickly.
+  - "Open in Browser" always works — it just opens your default browser.
+```
