@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/mkdirlove/CXSecurity"><img src="https://github.com/mkdirlove/CXSecurity/blob/main/logo.png" alt="CXSecurity"></a>
+  <a href="https://github.com/mkdirlove/Gork"><img src="https://github.com/mkdirlove/gork/blob/main/logo.png" alt="CXSecurity"></a>
   <br>
   Yet another tool for dorking.
   <br>
@@ -25,8 +25,8 @@ python3 gork.py
 
 #### HOW SEARCH WORKS:
 ```
-  - "Selenium (Chrome)" mode opens a real Chrome browser, logs in as you,
-    and scrapes results — Google cannot tell it apart from a human.
-  - "Requests" mode is fast but Google will CAPTCHA-block it quickly.
-  - "Open in Browser" always works — it just opens your default browser.
+- "Selenium (Chrome)" mode opens a real Chrome browser, logs in as you,
+  and scrapes results — Google cannot tell it apart from a human.
+- "Requests" mode is fast but Google will CAPTCHA-block it quickly.
+- "Open in Browser" always works — it just opens your default browser.
 ```
